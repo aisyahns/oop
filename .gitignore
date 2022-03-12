@@ -1,0 +1,9 @@
+/.idea/
+/allure-results/
+/logs/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
